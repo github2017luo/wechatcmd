@@ -9,8 +9,8 @@ import (
 	"path"
 
 	ct "github.com/daviddengcn/go-colortext"
-	"github.com/liushuchun/wechatcmd/ui"
-	chat "github.com/liushuchun/wechatcmd/wechat"
+	"./ui"
+	chat "./wechat"
 )
 
 const (
